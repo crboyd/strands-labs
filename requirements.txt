@@ -1,0 +1,8 @@
+# Strands SDK pinned to the course's tested baseline (sample-building-with-strands-course)
+strands-agents[web-fetch,anthropic,openai,ollama]==1.59.0
+boto3
+pydantic
+
+# Jupyter
+jupyterlab
+ipykernel
